@@ -1,0 +1,23 @@
+{
+    "font_size": 256,
+    "image_size": [256, 256],
+    "font_files": [
+        "WenJinMincho-OTF/WenJinMinchoP0-Regular.otf",
+        "WenJinMincho-OTF/WenJinMinchoP2-Regular.otf",
+        "WenJinMincho-OTF/WenJinMinchoP3-Regular.otf"
+    ],
+    "figures_dir": "figures",
+    "l3_ranges": [
+        {"name": "扩展B",    "ranges": [["0x20000", "0x2A6D6"]]},
+        {"name": "扩展B补充","ranges": [["0x2A6D7", "0x2A6DF"]]},
+        {"name": "扩展C",    "ranges": [["0x2A700", "0x2B734"]]},
+        {"name": "扩展C补充","ranges": [["0x2B735", "0x2B73A"]]},
+        {"name": "扩展D",    "ranges": [["0x2B740", "0x2B81D"]]},
+        {"name": "扩展E",    "ranges": [["0x2B820", "0x2CEA1"]]},
+        {"name": "扩展F",    "ranges": [["0x2CEB0", "0x2EBE0"]]},
+        {"name": "扩展G",    "ranges": [["0x30000", "0x3134A"]]},
+        {"name": "扩展H",    "ranges": [["0x31350", "0x323AF"]]},
+        {"name": "扩展I",    "ranges": [["0x2EBF0", "0x2EE5D"]]},
+        {"name": "扩展J",    "ranges": [["0x323B0", "0x33479"]]}
+    ]
+}
